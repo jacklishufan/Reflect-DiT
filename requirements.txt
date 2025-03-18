@@ -1,0 +1,4 @@
+accelerate==1.3.0
+git+https://github.com/huggingface/transformers.git@9d2056f12b66e64978f78a2dcb023f65b2be2108
+git+https://github.com/huggingface/diffusers@a4c1aac3ae10172f4acb8eaf83aac7f1f6e02ab0
+deepspeed==0.16.3

@@ -1,0 +1,7 @@
+ckpts
+data
+outputs/*.csv
+outputs/*.jpg
+**/__pycache__/
+**/**/__pycache__/
+outputs/gen_eval*
