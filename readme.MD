@@ -1,5 +1,5 @@
 # Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection
-[[Paper]](https://arxiv.org/abs/2503.12271)[[Checkpoint]](https://huggingface.co/jacklishufan/reflect-dit)[[Data(w/o Training Images)]](https://huggingface.co/datasets/jacklishufan/reflect-DiT) [[Training Images]](https://drive.google.com/file/d/11kHKUKOGI417HoNKJr84v1Ht3HU6R_yG/view?usp=drivesdk)
+[[Paper]](https://arxiv.org/abs/2503.12271)[[Checkpoint]](https://huggingface.co/jacklishufan/reflect-dit)[[Data(w/o Training Images)]](https://huggingface.co/datasets/jacklishufan/reflect-DiT) [[Training Images]](https://huggingface.co/datasets/KonstantinosKK/reflect-dit-train-images)
 
 This repo contains official implementation of [Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection](https://arxiv.org/abs/2503.12271)
 
