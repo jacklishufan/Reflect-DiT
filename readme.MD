@@ -37,7 +37,7 @@ After downloading all checkpoints, place it in the following structure
 
 Please download our evaluation data from [this repo](https://huggingface.co/datasets/jacklishufan/reflect-DiT/tree/main).
 
-Additionally, to reproduce training runs, please download images from [this google drive](https://drive.google.com/file/d/11kHKUKOGI417HoNKJr84v1Ht3HU6R_yG/view?usp=drivesdk)
+Additionally, to reproduce training runs, please download images from [this different repo](https://huggingface.co/datasets/KonstantinosKK/reflect-dit-train-images).
 
 After downloading all the data, organize it in the following structure
 
