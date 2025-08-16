@@ -1,7 +1,15 @@
 # Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection
-[[Paper]](https://arxiv.org/abs/2503.12271)[[Checkpoint]](https://huggingface.co/jacklishufan/reflect-dit)[[Data(w/o Training Images)]](https://huggingface.co/datasets/jacklishufan/reflect-DiT) [[Training Images]](https://huggingface.co/datasets/KonstantinosKK/reflect-dit-train-images)
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2503.12271">Paper</a> |
+  <a href="https://huggingface.co/jacklishufan/reflect-dit">Checkpoint</a> |
+  <a href="https://huggingface.co/datasets/jacklishufan/reflect-DiT">Data (w/o training images)</a> |
+  <a href="https://huggingface.co/datasets/KonstantinosKK/reflect-dit-train-images">Training Images</a>
+</p>
 
 This repo contains official implementation of [Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection](https://arxiv.org/abs/2503.12271)
+
+📢 **Update:** This paper will be presented as a poster at ICCV 2025. See you in Honolulu!
 
 ![Teaser Image](assets/teaser.png)
 
@@ -145,3 +153,14 @@ It will be automatically downloaded by `modelscope` package. Hence, we did not e
 3. Where are the Hard subsets of DPG-Bench mentioned in the paper?
 
 Its in `data/dpg/subsets`
+
+## Citation
+
+```
+@article{li2025reflect,
+  title={Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection},
+  author={Li, Shufan and Kallidromitis, Konstantinos and Gokul, Akash and Koneru, Arsh and Kato, Yusuke and Kozuka, Kazuki and Grover, Aditya},
+  journal={arXiv preprint arXiv:2503.12271},
+  year={2025}
+}
+```
